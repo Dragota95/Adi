@@ -40,29 +40,51 @@ opacity: 0;
     margin-top: 18%;
     margin-left: 25%;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
 }
+
+.home:hover{
+    text-decoration: underline;
+}
+
 .search{
     margin-left: 25%;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
 
+.search:hover{
+    text-decoration: underline;
 }
 
 .about-us{
     margin-left: 25%;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
 
+.about-us:hover{
+    text-decoration: underline;
 }
 
 .buy{
     margin-left: 25%;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
 
+.buy:hover{
+    text-decoration: underline;
 }
 
 .return{
     margin-left: 25%;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+}
 
+.return:hover{
+    text-decoration: underline;
 }
 
 .push{
