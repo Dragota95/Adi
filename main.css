@@ -1,8 +1,15 @@
 .body{
-    background-image: url("body.jpg");
-    background-size: cover;
-    display: inline-block;
-    background-repeat: no-repeat;
+ background-color: #f3d3c6;
+}
+
+.ablak{
+background-image: url(window.jpg);
+background-size:cover ;
+height: 43.4%;
+width: 11%;
+margin-top: 13.7%;
+margin-left: 28.3%;
+position: absolute;
 }
 
 .Doboz{
@@ -22,7 +29,7 @@ box-shadow: 40px 20px;
 .window{
 background-color: seagreen;
 height: 43.4%;
-width: 10%;
+width: 11%;
 margin-top: 13.7%;
 margin-left: 28.3%;
 position: absolute;
@@ -72,7 +79,7 @@ opacity: 0;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: large;
     color: grey;
-    margin-top: 45%;
+    margin-top: 47%;
     margin-left:35%;
     display: inline-block;
     position: absolute;
