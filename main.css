@@ -133,12 +133,34 @@ display: inline-block;
 .nev{
     display: inline-block;
     margin-left: 10px;
+    margin-bottom: 0px;
 }
 
 .email{
     display: inline-block;
+    margin-left: 10px;
+    margin-top: 10% ;
 }
 
 img{
-    border-radius: 50%;
+    border-radius: 80%;
+    margin-left: 5px;
+}
+
+.kep{
+    width: 20%;
+    display: inline-block;
+}
+
+.emailclass{
+    width: 60%;
+    display: inline-block;
+    margin: 0%;
+}
+
+.iroszer{
+    width: 20%;
+    display: inline-block;
+    margin: 5px 0px 0px 20px;
+    position: absolute;
 }
