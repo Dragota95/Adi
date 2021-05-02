@@ -1,0 +1,63 @@
+@font-face {
+    font-family: marlboro;
+    src: url(Imbue-VariableFont_opsz,wght.ttf);
+}
+
+body{
+    background-color:#000000 ;
+    margin: 0%;
+}
+
+.feher{
+    height: 5px;
+    width: 100%;
+    margin-top: -14%;
+    background-color: #fff;
+    z-index: 3;
+}
+
+.torokvoros{
+    height: 10px;
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 10px;
+    background-color: #570000;
+    top: 0;
+    z-index: 3;
+}
+
+.kep{
+    margin-left: 150px;
+    height: 100%;
+    width: 35%;
+    z-index: 5;
+    display: inline-block;
+}
+
+.searching{
+    color: #023b60;
+    margin-left: 42.8%;
+    margin-top: -30%;
+    display: flex;
+    align-self:center;
+    font-size: 5rem;
+}
+
+.gana{
+    color: #fff;
+    margin-left: 59%;
+    margin-top: 0%;
+    display: flex;
+    align-self:center;
+    font-size: 4rem;
+}
+
+.marlboro{
+    color: #fff;
+    margin-left: 63%;
+    margin-top: 5%;
+    display: flex;
+    align-self:center;
+    font-size: 12rem;
+    font-family:marlboro;
+}
