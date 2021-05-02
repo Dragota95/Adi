@@ -1,0 +1,101 @@
+body{
+    background-color: black;
+    margin:0%;
+
+}
+
+@font-face {
+    font-family: szoveg;
+    src: url(Montserrat/Montserrat-Black.ttf);
+}
+
+.szoveg{
+    font-family:szoveg;
+    color: #cba26e;
+    margin:6% 30% 0.1% 47.5%;
+    display: block;
+    font-size: 2rem;
+
+}
+
+.kep1{
+    display: inline-block;
+    height: 321px;
+    width: 235px;
+    margin: 0px 35px 7px 0px ;
+}
+
+.kep2{
+    display: inline-block;
+    height: 351px;
+    width: 235px;
+    margin: 30px 35px 7px 35px;
+}
+
+.kep3{
+    display: inline-block;
+    height: 381px;
+    width: 235px;
+    margin: 33px 35px -10px 35px;
+    border:15px solid #000;
+    outline:15px solid #cba26e;
+   
+}
+
+.kep4{
+    display: inline-block;
+    height: 351px;
+    width: 235px;
+    margin: 80px 35px 7px 35px;
+}
+
+.kep5{
+    display: inline-block;
+    height: 321px;
+    width: 253.1px;
+    margin: 110px 0px 7px 35px ;
+}
+
+.vonal1{
+    display: inline-block;
+    margin-top:6px;
+    height: 15px;
+    width: 100%;
+    background-color: #cba26e;
+}
+
+.vonal2{
+    display: inline-block;
+    margin-top:6px;
+    height: 15px;
+    width: 80%;
+    margin-left: 10%;
+    background-color: #665137 ;
+}
+
+.vonal3{
+    display: inline-block;
+    margin-top:6px;
+    height: 15px;
+    width: 70%;
+    margin-left: 15%;
+    background-color: #3d3121 ;
+}
+
+.vonal4{
+    display: inline-block;
+    margin-top:6px;
+    height: 15px;
+    width: 50%;
+    margin-left: 25%;
+    background-color: #2e2518 ;
+}
+
+.vonal5{
+    display: inline-block;
+    margin-top:6px;
+    height: 15px;
+    width: 36%;
+    margin-left: 32%;
+    background-color: #221b12 ;
+}
